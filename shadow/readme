@@ -1,0 +1,4 @@
+
+add bleow after in /etc/rc.local
+
+su -c "sslocal -c /etc/shadowsocks.json"

@@ -1,0 +1,8 @@
+{
+    "server": "45.78.62.205",
+    "server_port": 443,
+    "local_port": 1080,
+    "password": "YTQ5OTJlYT",
+    "timeout": "600",
+    "method": "aes-256-cfb"
+}
